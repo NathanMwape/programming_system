@@ -29,4 +29,3 @@ Le programme utilise les bibliothèques standard de C (`stdio.h`, `windows.h`, `
 
 Veuillez noter que ce programme a été conçu pour les systèmes Windows, car il utilise des fonctions spécifiques à Windows (`CreateThread`, `CopyFile`, `GetLastError`). Si vous souhaitez l'utiliser sur un autre système d'exploitation, vous devrez apporter des modifications pour utiliser des fonctions équivalentes.
 
-Cette description peut être utilisée dans votre fichier README sur GitHub pour expliquer le fonctionnement et l'utilisation du programme de copie de fichiers en parallèle. N'oubliez pas d'adapter les instructions de compilation en fonction de votre environnement de développement.
